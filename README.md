@@ -20,3 +20,11 @@ Disponible sur le [Microsoft Store](#) et via [GitHub Releases](https://github.c
 
 - Email : security@netguardpro.com
 - Site web : https://netguardpro.com
+
+---
+
+### Method
+
+Microsoft Store packaging variant of the NetGuardPro suite. Built in **late March / early April 2026** with **Claude (Opus 4.6)** as paired implementation and audit partner. Each commit cross-audited (code review, dependency scan, Store policy review).
+
+---
